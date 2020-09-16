@@ -1,0 +1,7 @@
+applications:
+    - name: alwasluos141
+      path: .
+      memory: 168M
+      instances: 1
+      disk_quota: 512M
+      buildpack: staticfile_buildpack
